@@ -1,0 +1,5 @@
+# Created at 2023-10-05T21:08:37.357
+Boot Manifest-JAR contains absolute paths in classpath 'G:\1-UFide\VI cuatri\Desarrollo Web\Tienda-Desarrollo-Web-GregorySalazar\dev\Tienda_VI\tienda_v1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
